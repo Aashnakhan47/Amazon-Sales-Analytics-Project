@@ -1,4 +1,4 @@
-# Amazon Sales Analytics (Excel + AI)
+# Amazon Sales Analytics Project (Excel + AI)
 
 This project analyzes a 100,000-record Amazon sales dataset using Microsoft Excel and AI-assisted tools to generate business insights and KPI-driven dashboards.
 
